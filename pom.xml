@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.37.89:9980/mithuntechnologies/repository/axisbank-releases/</url>
+	      <url>http://172.31.5.119:8008/sathish/repository/citibank-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.37.89:9980/mithuntechnologies/repository/aixsbank-snapshot/</url>
+	      <url>http://172.31.5.119:8008/sathish/repository/citibank-sanpshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
